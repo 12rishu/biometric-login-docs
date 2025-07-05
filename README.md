@@ -59,4 +59,4 @@ You can optionally find or upload printable versions under `/docs/` (not include
 If you’re a recruiter or hiring manager and want to know more:
 
 **Rishu Singh**  
-[LinkedIn](https://www.linkedin.com/in/rishucareers)) | [Email](singhrishu348@gmail.com) | GitHub: [12rishu](https://github.com/12rishu)
+[LinkedIn](https://www.linkedin.com/in/rishucareers) | [Email](singhrishu348@gmail.com) | GitHub: [12rishu](https://github.com/12rishu)
