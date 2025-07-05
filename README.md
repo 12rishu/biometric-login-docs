@@ -11,7 +11,7 @@ The project involves implementing **biometric authentication (Face ID / Fingerpr
 **Platform**: Android & iOS Mobile Banking Apps  
 **Business Goal**: Faster, secure login without relying on passwords  
 **Year**: 2025  
-**Author**: [Rishu Singh] – Aspiring Business Analyst with QA background
+**Author**: [Rishu Singh] –  Business Analyst with QA background
 
 ---
 
